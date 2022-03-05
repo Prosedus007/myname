@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  text-align: center;
+
+}
+
+.all1{
+  height: 50px;
+}
+
+.img1{
+  border-radius: 100%;
+  width: 50px;
+}
+
+p {
+  line-height: 25px;
+}
+
+.head {
+  height: 700px;
+  background-color: #cef5d1;
+  color: #65c18c;
+}
+
+.name {
+  font-size: 50px;
+  font-family: "Lucida Handwriting", Cursive;
+  color: #299b51;
+  position: relative;
+  top: 200px;
+}
+
+.para {
+  position: relative;
+  color: #299b51;
+  font-size: 20px;
+  top: 270px;
+}
+
+.all {
+  position: relative;
+  top: 400px;
+}
+
+.mid-div {
+  padding: 0 0 20px 0;
+  background: #ebfaec;
+}
+
+.mine {
+  width: 7%;
+  padding: 40px auto 40px auto;
+}
+
+.info {
+  width: 30%;
+  margin: 10px auto;
+}
+
+hr {
+  margin: 5px auto 5px auto;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  color: rgb(201, 221, 201);
+}
+
+.gaming {
+  border-radius: 10%;
+}
+
+.cloud {
+  margin: 0;
+  width: 150px;
+  position: absolute;
+  left: 290px;
+  top: 100px;
+  opacity: 70%;
+}
+
+.contact {
+  padding: 50px auto;
+}
+
+.first {
+  text-align: right;
+}
+
+.second {
+  text-align: left;
+}
+
+.cloud1 {
+  width: 150px;
+  opacity: 40%;
+  position: absolute;
+  left: 970px;
+  top: 300px;
+}
+
+.cnt {
+  width: 100px;
+  float: left;
+}
+.cnt1 {
+  width: 100px;
+  float: right;
+}
+
+table {
+  margin: 20px auto;
+  border-spacing: 10px;
+}
+
+.skills1 {
+  text-align: left;
+}
+
+.skill-cont {
+  margin: 50px auto;
+}
+
+div{
+  background: #ebfaec;
+}
+
+.para1{
+  text-align: left;
+}
+
+.container1{
+  margin: 70px auto;
+  width: 40%;
+}
+
+.container2{
+  margin: 70px auto;
+  width: 40%;
+}
