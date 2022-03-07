@@ -25,6 +25,10 @@ p {
   color: #65c18c;
 }
 
+h2{
+  color: #299b51;
+}
+
 .name {
   font-size: 50px;
   font-family: "Lucida Handwriting", Cursive;
@@ -76,8 +80,9 @@ hr {
   margin: 0;
   width: 150px;
   position: absolute;
-  left: 290px;
-  top: 100px;
+  left: 250px;
+  top: 40px;
+ 
   opacity: 70%;
 }
 
@@ -97,8 +102,10 @@ hr {
   width: 150px;
   opacity: 40%;
   position: absolute;
-  left: 970px;
-  top: 300px;
+  right: 300px;
+  top: 340px;
+  
+
 }
 
 .cnt {
