@@ -6,13 +6,15 @@
 
 }
 
-.all1{
-  height: 50px;
+.all{
+  /* height: 50px; */
+  width: 50%;
+  opacity: 60%;
 }
 
 .img1{
   border-radius: 100%;
-  width: 50px;
+  width: 20%;
 }
 
 p {
@@ -20,7 +22,8 @@ p {
 }
 
 .head {
-  height: 700px;
+  height: 800px;
+
   background-color: #cef5d1;
   color: #65c18c;
 }
@@ -55,7 +58,7 @@ h2{
 }
 
 .mine {
-  width: 7%;
+  width: 10%;
   padding: 40px auto 40px auto;
 }
 
@@ -78,7 +81,7 @@ hr {
 
 .cloud {
   margin: 0;
-  width: 150px;
+  width: 15%;
   position: absolute;
   left: 250px;
   top: 40px;
@@ -99,7 +102,7 @@ hr {
 }
 
 .cloud1 {
-  width: 150px;
+  width: 15%;
   opacity: 40%;
   position: absolute;
   right: 300px;
